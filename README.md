@@ -1,4 +1,7 @@
 # VITBML-EDA
+
+
+  You can find my Colab Notes at: https://colab.research.google.com/drive/1zwPAGzV7w862ihLecBN5JjZg4uNuvgee
                                                              **Read Me ** 
 
             1) From this project we understood the usage of Numpy and Pandas.
